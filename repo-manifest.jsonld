@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/bentoml/chatgpt-lite/commit/e4b4d64102b24506f1f7110741e85b20407f96d7",
       "git:hexsha": "e4b4d64102b24506f1f7110741e85b20407f96d7",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }

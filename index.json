@@ -1,0 +1,11 @@
+{
+  "org": "bentoml",
+  "repo": "chatgpt-lite",
+  "versions": [
+    {
+      "commit": "e4b4d64102b24506f1f7110741e85b20407f96d7",
+      "tag": "",
+      "parsed_at": "2026-11-08T10:49:55.577239+00:00"
+    }
+  ]
+}
